@@ -4,5 +4,7 @@ class Mashine {
     canvas.width = 720;
     canvas.height = 720;
   }
-  draw() {}
+  draw() {
+    const ctx = canvas.getContext('2d');
+  }
 }
