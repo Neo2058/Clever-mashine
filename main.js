@@ -4,4 +4,5 @@ class Mashine {
     canvas.width = 720;
     canvas.height = 720;
   }
+  draw() {}
 }
